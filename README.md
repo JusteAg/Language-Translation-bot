@@ -9,3 +9,6 @@ The objective of this project is to develop a language translation bot. With so 
 - Create a Lambda function
 - Test the Lambda function
 - Test the chatbot
+## Architecture Diagram
+![Architecture diagram of a chatbox built in AWS Cloud](<img width="1340" height="800" alt="chatbot diagram " src="https://github.com/user-attachments/assets/9b02d976-4af7-4809-8fe7-977d16ff3ca1" />
+)
