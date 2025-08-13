@@ -10,4 +10,4 @@ The objective of this project is to develop a language translation bot. With so 
 - Test the Lambda function
 - Test the chatbot
 ## Architecture Diagram
-![an architectural diagram of an Amazon Lex chatbox](Translation chatbot/chatbotdiagram.png)
+![an architectural diagram of an Amazon Lex chatbox](Translation%20chatbot/chatbotdiagram.png)
