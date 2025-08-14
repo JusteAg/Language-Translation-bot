@@ -17,3 +17,15 @@ The objective of this project is to develop a language translation bot. With so 
 - Name the bot and select the first option for IAM permissions. Choose "No" for COPPA.
 Set English as the language and keep default settings. This completes the creation of an empty chatbot.
 ![Amazon Lex language selection option](Translation_chatbot/bot_language.png)
+## Step 2: Configure the Bot for Translation
+-Define the bot’s Intent, which represents its function. Since this bot translates text, name the intent "translatorintent"
+- Set up Slots to process translation requests: ‍Create a slot type outside the Intent console, listing the languages the bot will translate to.
+Inside the Intent editor, add the slot type and a prompt asking for the target language.
+Add a second slot to capture the text input for translation.
+- Optionally, set an initial response
+- Define fulfillment outputs for success or failure
+- Enable the Lambda function for processing
+- Add a closing response to finalize the intent
+- Add an Utterance, which acts as a key phrase that triggers the chatbot.
+
+  
