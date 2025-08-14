@@ -11,3 +11,9 @@ The objective of this project is to develop a language translation bot. With so 
 - Test the chatbot
 ## Architecture Diagram
 ![an architectural diagram of an Amazon Lex chatbox](Translation_chatbot/chatbotdiagram.png)
+## Step 1:Create the Chatbot in Amazon Lex
+- In the Amazon Lex console, select "Create bot".
+- Choose Traditional / Create a blank bot
+- Name the bot and select the first option for IAM permissions. Choose "No" for COPPA.
+Set English as the language and keep default settings. This completes the creation of an empty chatbot.
+![Amazon Lex language selection option](Translation_chatbot/bot_language.png)
