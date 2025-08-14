@@ -43,4 +43,5 @@ Add a second slot to capture the text input for translation.
   - In the Amazon Lex console, build the Intent
   - Under Testing settings, add the Lambda function created earlier.
   - Test the chatbot by interacting with it.
+    
  ![Here is an image of Amazon Lex Chatbot test](Translation_chatbot/chat_test1.png)
